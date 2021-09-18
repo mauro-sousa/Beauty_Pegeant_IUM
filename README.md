@@ -1,1 +1,1 @@
-# Beauty_Pegeant_IUM
+# Beauty-pageant
